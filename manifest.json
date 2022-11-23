@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "guid": "eb5d7894-8eef-4b36-aa6f-5d124e828ce1",
+        "name": "Jav",
+        "description": "A jellyfin plugin used to fetch movie and actor info.\n",
+        "overview": "A jellyfin plugin used to fetch movie and actor info",
+        "owner": "jellyfin",
+        "category": "General",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "fetch movie and actor info by jav-service\n",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/chenqiaoanying/jellyfin-plugin-jav/releases/download/v1.0.0.0/jav_1.0.0.0.zip",
+                "checksum": "e75f34941ee0322dbbbcc815f57bfab4",
+                "timestamp": "2022-11-23T06:23:46Z"
+            }
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/chenqiaoanying/jellyfin-plugin-jav/master/Jellyfin.Plugin.Jav/logo.png"
+    }
+]
